@@ -34,9 +34,9 @@ Looking to connect with anyone who’s into:
 - **The Solana Developer's Handbook** by Solana Labs
 
 ### Target Audience for Funding:
-- **Traditional Funds**: Banks and conservative investors may be hesitant, especially if they aren’t familiar with blockchain technology.
-- **Specialized Investors**: Platforms focused on crypto and blockchain investments (e.g., Binance Labs, Coinbase Ventures) are more open to such ideas.
-- **NFT/Crypto Communities**: If presented well, funding can be raised through crowdfunding campaigns or ICOs directly from passionate blockchain communities.
+- **Traditional Funds**: I'm currently trying to see if traditional banks will sustain the project. + ( EUROPEAN UNION FUNDING)
+- **Specialized Investors**
+- **NFT/Crypto Communities**
 
 Let’s **build the future** together — combining **crypto** and **real-world agriculture** to make a lasting impact! 🌱🚀
 
