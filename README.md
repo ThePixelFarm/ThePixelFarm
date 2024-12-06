@@ -3,7 +3,7 @@
 - 🌱 I’m currently creating the businessplan for it
 - 💞️ I’m looking to collaborate w other crypto enthusiasts, inversors, marketing agencyes
 - 📫 How to reach me -telegram @andrejportic
-- 😄 Pronouns: Andrej
+- 😄 Pronouns: Radu
 - ⚡ Fun fact: Who was first? The egg, the chicken or the pixel?
 
 <!---
