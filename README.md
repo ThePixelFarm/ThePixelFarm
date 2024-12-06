@@ -12,7 +12,7 @@ Right now, I’m focused on creating a **business plan** for a one-of-a-kind far
 
 ### Let’s Collaborate
 Looking to connect with anyone who’s into:  
-**Crypto and blockchain**, **investing**, and *marketing*, *agriculture*, *smart-contracts*. Let’s make things happen!
+**Crypto enthusiasts**, **investors**, and **marketing agencies**. Let’s make things happen!
 
 ### Reach me on Telegram:
 [@andrejportic](https://t.me/andrejportic)
@@ -32,6 +32,11 @@ Looking to connect with anyone who’s into:
 ### Currently Reading:
 - **Mastering Solana** by Michael Levin
 - **The Solana Developer's Handbook** by Solana Labs
+
+### Target Audience for Funding:
+- **Traditional Funds**: Banks and conservative investors may be hesitant, especially if they aren’t familiar with blockchain technology.
+- **Specialized Investors**: Platforms focused on crypto and blockchain investments (e.g., Binance Labs, Coinbase Ventures) are more open to such ideas.
+- **NFT/Crypto Communities**: If presented well, funding can be raised through crowdfunding campaigns or ICOs directly from passionate blockchain communities.
 
 Let’s **build the future** together — combining **crypto** and **real-world agriculture** to make a lasting impact! 🌱🚀
 
