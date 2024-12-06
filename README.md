@@ -12,7 +12,7 @@ Right now, I’m focused on creating a **business plan** for a one-of-a-kind far
 
 ### Let’s Collaborate
 Looking to connect with anyone who’s into:  
-**Crypto enthusiasts**, **investors**, and **marketing agencies**. Let’s make things happen!
+**Crypto and blockchain**, **investing**, and *marketing*, *agriculture*, *smart-contracts*. Let’s make things happen!
 
 ### Reach me on Telegram:
 [@andrejportic](https://t.me/andrejportic)
